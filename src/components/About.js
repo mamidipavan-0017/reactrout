@@ -10,7 +10,7 @@ function About() {
     
     Donec congue posuere dictum. Vivamus at libero vel erat posuere lacinia. In vel pharetra lectus. Donec ipsum dolor, tincidunt ac dui vitae, molestie placerat ligula. Proin pharetra, diam sit amet tincidunt consectetur, orci lectus rutrum ante, sollicitudin congue sem turpis vitae nisi. Proin quis euismod enim, ac porttitor quam. Sed lacinia erat eu diam tempus pretium. Vivamus eros diam, eleifend eu magna non, porta sollicitudin velit. Maecenas mattis convallis massa vitae pharetra. Duis sit amet massa eu nunc tincidunt sagittis non id nulla. Quisque mollis eros at lobortis interdum. Integer commodo, lacus id mattis pellentesque, diam eros pellentesque libero, et rutrum nibh leo eu magna. Cras auctor tincidunt tincidunt. Maecenas pretium, sem eget viverra dapibus, sem eros placerat eros, eu elementum orci diam vel sapien.
     
-    Integer consequat tortor massa, nec facilisis neque consequat a. Nunc efficitur et odio quis dictum. Proin tempor massa nisl, ultricies varius sapien maximus non. In bibendum placerat neque, nec rutrum est vulputate congue. Quisque id ligula felis. Proin volutpat mattis risus, ut elementum enim rhoncus quis. Proin et tortor viverra, vehicula orci eget, lobortis diam.</p></div>
+     consequat tortor massa, nec facilisis neque consequat a. Nunc efficitur et odio quis dictum. Proin tempor massa nisl, ultricies varius sapien maximus non. In bibendum placerat neque, nec rutrum est vulputate congue. Quisque id ligula felis. Proin volutpat mattis risus, ut elementum enim rhoncus quis. Proin et tortor viverra, vehicula orci eget, lobortis diam.</p></div>
   )
 }
 
